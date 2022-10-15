@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate frontend developer and C++ programmer.</h3>
 [![@dvig14's Holopin board](https://holopin.me/dvig14)](https://holopin.io/@dvig14)
-
+<br>
+<img align="right" src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" alt="coding" width="300px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvig14&label=Profile%20views&color=0e75b6&style=flat" alt="dvig14" /> </p>
 
 - 📫 How to reach me **dvig41467@gmail.com**
@@ -19,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvig14&show_icons=true&locale=en&layout=compact" alt="dvig14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvig14&show_icons=true&locale=en" alt="dvig14" /></p>
+<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=dvig14&show_icons=true&locale=en" alt="dvig14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvig14&" alt="dvig14" /></p>
