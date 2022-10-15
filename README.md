@@ -1,6 +1,7 @@
-<head><link ref="stylesheet"  href="css/readme.css"></head>
-<h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">A passionate frontend developer and C++ programmer.</h3>
+<head><link ref="stylesheet"  href="css/style.css"></head>
+<body>
+<div class="header"><h1 align="center">Hi 👋, I'm Diksha</h1>
+<h3 align="center">A passionate frontend developer and C++ programmer.</h3></div>
 [![@dvig14's Holopin board](https://holopin.me/dvig14)](https://holopin.io/@dvig14)
 <br>
 <img align="right" src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" alt="coding" width="300px">
@@ -24,3 +25,4 @@
 <p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=dvig14&show_icons=true&locale=en" alt="dvig14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvig14&" alt="dvig14" /></p>
+</body>
