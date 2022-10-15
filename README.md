@@ -1,3 +1,4 @@
+<head><link ref="stylesheet" type="text/css" href="readme.css"></head>
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate frontend developer and C++ programmer.</h3>
 [![@dvig14's Holopin board](https://holopin.me/dvig14)](https://holopin.io/@dvig14)
