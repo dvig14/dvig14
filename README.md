@@ -3,7 +3,6 @@
 <div class="header"><h1 align="center">Hi 👋, I'm Diksha</h1>
  <h3 align="center">A passionate frontend developer and C++ programmer.</h3>
 </div>
-[![@dvig14's Holopin board](https://holopin.me/dvig14)](https://holopin.io/@dvig14)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvig14&label=Profile%20views&color=0e75b6&style=flat" alt="dvig14" /> </p>
 
