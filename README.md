@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align='right' alt='coding' width="350" style="border-radius:10" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
+<img align='right' alt='coding' width="400" style="border:1px solid white;border-radius:10%;" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvig14&label=Profile%20views&color=0e75b6&style=flat" alt="dvig14" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
