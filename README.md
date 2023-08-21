@@ -1,7 +1,4 @@
 <html>
- <style>
-  img:nth-Child(2){border-radius:1rem;}
- </style>
 <body>
 <div class="header"><h1 align="center">Hi 👋, I'm Diksha</h1>
  <h3 align="center">A passionate frontend developer and C++ programmer.</h3>
