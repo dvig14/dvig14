@@ -1,3 +1,4 @@
+![image](https://github.com/dvig14/dvig14/assets/97282430/ec52a6b1-40d5-4196-a300-007b0d43307b)
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
