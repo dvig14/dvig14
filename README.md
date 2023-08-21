@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvig14&label=Profile%20views&color=0e75b6&style=flat" alt="dvig14" /> </p>
 
 - 📫 How to reach me **dvig41467@gmail.com**
-- Linkedin**https://www.linkedin.com/in/diksha14**
-<img align="right"  src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" alt="coding" width="300px">
-- ⚡ Fun fact **I think I am funny**
+<img align="right"  src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" alt="coding" width="300px" height='500px' style='border-radius="0.5rem"'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
