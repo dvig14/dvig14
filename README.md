@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html,CSS,JavaScript**
+- 💬 Ask me about **Html,CSS,JavaScript,React,TailwindCss**
 
 - 📫 How to reach me **dvig41467@gmail.com**
 
