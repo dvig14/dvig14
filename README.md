@@ -5,10 +5,6 @@
 <img align='right' alt='coding' width="350" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvig14&label=Profile%20views&color=0e75b6&style=flat" alt="dvig14" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Html,CSS,JavaScript,React,TailwindCss**
-
 - 📫 How to reach me **dvig41467@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
