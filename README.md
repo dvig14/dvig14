@@ -1,7 +1,7 @@
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=dvig14&label=Profile+views&style=for-the-badge&color=green)  
 
 - 👋 Hey, I'm Diksha.
-- 🔭 Currently exploring **DevOps**.
+- 🔭 Currently exploring **DevOps**, **OS**, **Networking**.
 - 📫 How to reach me **dvig41467@gmail.com**.
 
 ### 🌐Find Me on the internet: [![Linktr](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/dvig15)
